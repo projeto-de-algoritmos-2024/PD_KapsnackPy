@@ -28,7 +28,6 @@ Ter o python instalado juntamente com sua biblioteca pygame.
 Aperte o botão para iniciar e a matriz de memoization vai começar a ser formada.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+Video https://youtu.be/iTOQk3bN__s
 
 
