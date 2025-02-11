@@ -11,7 +11,14 @@
 Demonstrar o algoritmo de Kapsnack usando programação dinâmica e pesos indivisiveis 
 
 ## Screenshots
+Inicio Kapsnack
+![inicio](./Images/inicioKapsnack.png)
 
+Montando Memoization
+![montando](./Images/memoizationKapsnack.png)
+
+Achando o valor 
+![valor final](./Images/finalkapsnack.png)
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: Biblioteca Pygame<br>
