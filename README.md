@@ -11,7 +11,6 @@
 Demonstrar o algoritmo de Kapsnack usando programação dinâmica e pesos indivisiveis 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: Python<br>
