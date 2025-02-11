@@ -5,7 +5,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 2O/0038028  | Guilherme Evangelista Ferreira dos Santos|
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0147816  |  Vinicius Edwardo Pereira Oliveira |
 
 ## Sobre 
 Demonstrar o algoritmo de Kapsnack usando programação dinâmica e pesos indivisiveis 
